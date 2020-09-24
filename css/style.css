@@ -1,0 +1,149 @@
+.headline{
+    color: rgb(88, 23, 11);
+    background-color: slategrey;
+    font-size: 30px;
+}
+.Anchor{
+    color: teal;
+    background-color: violet;
+    font-size: 20px;
+    text-align: center;
+}
+.address{
+    color: rgb(56, 21, 56);
+    background-color: yellowgreen;
+    font-size: 20px;
+    text-align: center;
+}
+.audio{
+    color: darkgreen;
+    background-color: darkkhaki;
+    font-size: 20px;
+    text-align: center;
+}
+.bold_t{
+    color: rgb(15, 53, 179);
+    background-color: darkseagreen;
+    font-size: 20px;
+    text-align: center;
+}
+.button{
+    color: rgb(221, 42, 10);
+    background-color: dimgrey;
+    font-size: 20px;
+    text-align: center;
+}
+.code{
+    color: magenta;
+    background-color: rgb(79, 81, 102);
+    font-size: 20px;
+    text-align: center;
+}
+.cite{
+    color: maroon;
+    background-color: orchid;
+    font-size: 20px;
+    text-align: center;
+}
+.div{
+    color: gold;
+    background-color: hotpink;
+    font-size: 20px;
+    text-align: center;
+}
+.embed_09{
+    color: rgb(3, 41, 6);
+    background-color: khaki;
+    font-size: 20px;
+    text-align: center;
+}
+.embed_name{
+    color: magenta;
+    background-color: lightgreen;
+    font-size: 20px;
+    text-align: center;
+}
+.embed_description{
+    color: rgb(19, 4, 71);
+    background-color: rgb(79, 81, 102);
+    font-size: 20px;
+    text-align: center;
+}
+.embed_exmpl{
+    color: darkred;
+    background-color: darksalmon;
+    font-size: 20px;
+    text-align: center;
+}
+.even{
+    color: indigo;
+    background-color: lavenderblush;
+    font-size: 20px;
+    text-align: center;
+}
+.odd{
+    color: mediumvioletred;
+    background-color: navajowhite;
+    font-size: 20px;
+    text-align: center;
+}
+.image{
+    color: darkred;
+    background-color: palegoldenrod;
+    font-size: 20px;
+    text-align: center;
+}
+.input{
+    color: rgb(190, 33, 138);
+    background-color: black;
+    font-size: 20px;
+    text-align: center;
+}
+.label{
+    color: darkblue;
+    background-color: coral;
+    font-size: 20px;
+    text-align: center;
+}
+.li{
+    color: darkred;
+    background-color: darkolivegreen;
+    font-size: 20px;
+    text-align: center;
+}
+.uname{
+    color: rgb(68, 42, 42);
+    background-color: rgb(123, 133, 106);
+    font-size: 18px;
+    text-align: center;
+}
+.even_2{
+    color: rgb(88, 23, 11);
+    background-color: sienna;
+    font-size: 20px;
+    text-align: center;
+}
+.odd_2{
+    color: chocolate;
+    background-color: darkcyan;
+    font-size: 20px;
+    text-align: center;
+}
+.pre{
+    color: darkgreen;
+    background-color: darkkhaki;
+    font-size: 20px;
+    text-align: center;
+}
+.s_even{
+    color: indigo;
+    background-color: rgb(79, 81, 102);
+    font-size: 20px;
+    text-align: center;
+}
+.heading{
+    color: black;
+    background-color: grey;
+    font-size: 35px;
+    text-align: center;
+}
